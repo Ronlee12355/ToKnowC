@@ -13,3 +13,4 @@ int main(int argc, char const *argv[])
 
     return 0;
 }
+// This file contains the parameters passed to the script and processd

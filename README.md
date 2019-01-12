@@ -4,6 +4,8 @@ I have to say that I am totallt new to language C, but in order to maintain myse
 
 In this repo I will implement serveral algorithms and data structures using C, and certainly I am gonna invite my friends to pull request  
 
+[Say Hello World](https://github.com/Ronlee12355/ToKnowC/blob/master/helloWorld.c)
+
 ## Algorithms
 
 
